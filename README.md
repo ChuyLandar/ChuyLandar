@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ChuyLandar, a computer systems engineer
-- 👀 I’m interested in Game Development, Web Development and Software Development in general
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on Game Development, Web Development or Software Development in general
+- 👋 Hi, I’m @ChuyLandar, a computer systems engineer.
+- 👀 I’m interested in Web Development, Game Development and Software Development.
+- 🌱 I’m currently learning AWS.
+- 💞️ I’m looking to collaborate on Web Development or Game Development principally, but open to anything code related.
 - 📫 How to reach me: Discord: Chuy#3003, Messenger: https://www.facebook.com/ChuyLandar
 
 <!---
